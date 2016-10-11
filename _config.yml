@@ -24,5 +24,4 @@ github:
   repo: https://github.com/aryamanarora/aryamanarora.github.io
 
 # Gems
-gems:
-  - jekyll-gist
+gems: jekyll-gist
