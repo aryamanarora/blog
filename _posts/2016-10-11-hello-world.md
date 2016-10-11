@@ -3,7 +3,9 @@ layout: post
 title: Hello World
 ---
 
-{% highlight c %}
+Hello everyone! This is my first post, so it makes sense to include a simple hello world program.
+
+{% highlight c linenos %}
 #include <stdio.h>
 
 int main(void)
