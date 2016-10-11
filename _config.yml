@@ -1,28 +1,29 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+kramdown:
+  input: GFM
+  syntax-highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Aryaman
-tagline:          'My website'
-description:      'This is my website, hosted on GitHub. It uses the Jekyll theme Hyde.'
-url:              https://aryamanarora.github.io
-baseurl:          /
+title: Aryaman
+tagline: 'My website'
+description: 'This is my website, hosted on GitHub. It uses the Jekyll theme Hyde.'
+url: https://aryamanarora.github.io
+baseurl: /
 
 author:
-  name:           'Aryaman Arora'
-  url:            https://github.com/aryamanarora
+  name: 'Aryaman Arora'
+  url: https://github.com/aryamanarora
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/aryamanarora/aryamanarora.github.io
 
 # Gems
-  gems:           [jekyll-paginate]
+  gems: [jekyll-paginate]
