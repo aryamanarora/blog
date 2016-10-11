@@ -3,9 +3,21 @@ layout: page
 title: Work
 ---
 
-## Code
+* TOC
+{:toc}
 
-All of my code is hosted on [GitHub](https://github.com/).
+## Internet
+
+### Social Media
+* **[Twitter](https://twitter.com/aryaman2020)**
+
+### Websites I've Made
+* **[Aryaman SAS](https://aryamansas.wordpress.com/)** - a website I made for my peers to use in 7th grade; my first foray into [Wordpress](https://wordpress.com/)
+* **[Arora Family Savannah](http://arorafamilysavannah.weebly.com/)** - a small blog I made when I was ten
+
+## Programming
+
+All of my interesting code is hosted on [GitHub](https://github.com/).
 
 <p class="message">I have an education pack, so some of my repositories are private. I don't want any of my peers plagiarizing my code!</p>
 
