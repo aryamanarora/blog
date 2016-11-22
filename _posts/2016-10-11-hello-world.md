@@ -12,6 +12,18 @@ Hello everyone! This is my first post, so it makes sense to include a simple hel
 
 int main(void)
 {
-  printf("Hello world!\n");
+    printf("Hello world!\n");
 }
+{% endhighlight %}
+
+## hello-world.py
+
+{% highlight python %}
+print("Hello world!")
+{% endhighlight %}
+
+## hello-world.R
+
+{% highlight R %}
+print("Hello world!")
 {% endhighlight %}
